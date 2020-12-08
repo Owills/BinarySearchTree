@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Tree
+comment1.params=
+comment1.target=Tree()
+comment10.params=root
+comment10.target=int\ minValue(Node)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=root
+comment3.target=void\ print(Node)
+comment4.params=key
+comment4.target=boolean\ search(int)
+comment5.params=root\ key
+comment5.target=Node\ search(Node,\ int)
+comment6.params=key
+comment6.target=void\ insert(int)
+comment7.params=root\ key
+comment7.target=Node\ insert(Node,\ int)
+comment8.params=key
+comment8.target=void\ delete(int)
+comment9.params=root\ key
+comment9.target=Node\ delete(Node,\ int)
+numComments=11
